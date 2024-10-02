@@ -1,4 +1,6 @@
-## Hi there 👋
+## Chemical Engineering, IIT Roorkee
+
+### The Department of Chemical Engineering was established in 1963 with an undergraduate program in Chemical Engineering. The department currently runs undergraduate (B.Tech.), postgraduate (M.Tech.), and doctoral (Ph.D.) programs in Chemical Engineering. The department grew and set very high standards in teaching and cutting-edge research.
 
 <!--
 
